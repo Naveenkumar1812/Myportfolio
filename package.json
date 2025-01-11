@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "gh-pages": "^6.3.0",
-    "tailwindcs,s": "^3.4.17"
+    "tailwindcss": "^3.4.17"
   },
-  "homepage": "https://<your-username>.github.io/portfolio"
+  "homepage": "https://Naveenkumar1812.github.io/portfolio"
 }
