@@ -1,6 +1,8 @@
 import websiteImg1 from '../assets/Taskify.jpg';
 import websiteImg2 from '../assets/translator.jpg';
 import websiteImg3 from '../assets/face reconition.jpg';
+import websiteImg4 from '../assets/blog.jpg';
+import websiteImg5 from '../assets/ecommerce.jpeg';  // Your eCommerce image import
 
 export default function Projects() {
   const config = {
@@ -20,6 +22,16 @@ export default function Projects() {
         description: 'Developed an advanced security system using facial recognition for enhanced home security.',
         link: 'https://github.com/Naveenkumar1812/Face-Recognization-for-Home-Security.git',
       },
+      {
+        image: websiteImg4,
+        description: 'Developed a Blog Application using the MERN stack with CRUD functionality and dynamic content rendering.',
+        link: 'https://github.com/Naveenkumar1812/TechStacks.git',
+      },
+      {
+        image: websiteImg5,
+        description: 'Built a Full Stack E-Commerce website with product listing, cart, and order placement functionalities.',
+        link: 'https://github.com/Naveenkumar1812/Ecommerce-Website.git', // Update with the correct GitHub link
+      },      
     ],
   };
 
